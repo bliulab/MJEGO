@@ -1,0 +1,12 @@
+Large parts of the code presented in this directory has been taken from:
+https://github.com/vgsatorras/egnn
+
+Citations:
+@misc{satorras2021en,
+    title 	= {E(n) Equivariant Graph Neural Networks}, 
+    author 	= {Victor Garcia Satorras and Emiel Hoogeboom and Max Welling},
+    year 	= {2021},
+    eprint 	= {2102.09844},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.LG}
+}

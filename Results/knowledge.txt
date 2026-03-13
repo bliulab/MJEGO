@@ -1,0 +1,1 @@
+The output results of the model are saved in this directory.

@@ -1,0 +1,2 @@
+The model requires obtaining the prediction results of Alphafold in advance. Please visit the website for details. https://alphafold.com/download
+For the ESM calculation features, you can download the model from the public repository for the calculation. https://github.com/facebookresearch/esm
